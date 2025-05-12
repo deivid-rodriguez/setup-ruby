@@ -174,7 +174,7 @@
     "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14-openssl@1.1.7z"
   },
   "3.1.7": {
-    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14-openssl@1.1.7z"
+    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/download/v20250509.003447/msys2-ucrt64-gcc@14-openssl@1.1.7z"
   },
   "3.2.0": {
     "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
@@ -201,7 +201,7 @@
     "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
   },
   "3.2.8": {
-    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
+    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/download/v20250509.003447/msys2-ucrt64-gcc@14.7z"
   },
   "3.3.0": {
     "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
@@ -228,7 +228,7 @@
     "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
   },
   "3.3.8": {
-    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-ucrt64-gcc@14.7z"
+    "x64": "https://github.com/ntkme/setup-msys2-gcc/releases/download/v20250509.003447/msys2-ucrt64-gcc@14.7z"
   },
   "3.4.1": {
     "arm64": "https://github.com/ntkme/setup-msys2-gcc/releases/latest/download/msys2-clangarm64.7z",
